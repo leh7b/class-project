@@ -1,0 +1,50 @@
+<html>
+<head><title>Picturing The Archive</title></head>
+<body>
+<body bgcolor="#96BEFA"></body>
+<style>p {text-indent: 30pt;font-size: 14pt;}</style>
+<h1 align="center"><FONT COLOR=#FFC300>Picturing The Archive: Historical Photographs</h1>
+<p><FONT COLOR=black>The desire to remember people, places, and events of importance to our lives is a very human notion, one that predates written records. The invention of photography added new dimensions to this quest for communication and recollection. Cameras made it possible to capture the essence of a moment, to freeze an image in perpetuity for future viewing. Today we can document aspects of critical global events or create an intimate image of a meaningful family celebration on our phones, sharing them with the world in a few quick swipes.</p>
+<p><b>Archives have recognized the importance of photographs for decades, gathering collections in formats from daguerreotypes to silver gelatin prints to born-digital files. Changes in technology have only multiplied the number of photographers, exponentially increasing the quantity of photographs taken each day.</b></p>
+<br>
+<style>
+.container {display: flex; align-items: center; justify-content: center}
+img {max-width: 100%; max-height:100%;}
+.text {font-size: 20px; padding-left: 20px;}
+</style>
+<body>
+<div class="container">
+<div class="image">
+<img src="IMG_6489.jpeg" alt="Early 20th Century Women"/>
+</div>
+<div class="text">
+<h3>Invention of an Artform</h3>
+<p><i>Artists, scientists, and inventors spent years attempting to capture what our eyes could see in a more enduring form before success was finally achieved. Camera obscuras and other devices had been in use since the twelfth century, allowing artists to trace projected images onto paper or canvas, but it would not be until hundreds of years later that the world would have the means of more direct replication.</i> The invention of photography in the mid-nineteenth century is credited to either France’s Jacques Louis Daguerre or Nicéphore Niepce or Britain’s William Henry Fox Talbot. No matter upon which inventor you bestow the honor, it is widely acknowledged that the birth of photography created an almost immediate and explosive cultural impact.</p>
+</div>
+</div>
+</body>
+<br><br>
+<img src="IMG_6486.jpeg" width="1000px" height="620px" alt="Carte-de-visite"/>
+<p>Samuel Morse, inventor of the telegraph and Morse code, was one of the first to bring daguerreotypes to the United States. André Adolphe Eugène Disdéri’s patent for carte-de-visite photographs in France in 1854, <u>which created eight or more simultaneous prints through use of a special camera</u>, further multiplied photography’s appeal as people were able to easily share portraits with family and friends.</p>
+<a href="https://www.loc.gov/collections/samuel-morse-papers/articles-and-essays/collection-highlights/daguerreotype/"> Click for more about daguerreotypes</a>
+<br><br>
+<style> table, th, td {border: 1px solid orange; font-size: 16pt;}</style>
+<table>
+    <tr>
+        <th colspan="3">Early Photographs</th>
+    </tr>
+    <tr>
+        <td>Contact Prints</td>
+        <td>Daguerreotypes</td>
+        <td>Photograms</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.britannica.com/technology/calotype"> Calotypes</a></td>
+        <td><a href="https://www.loc.gov/collections/liljenquist-civil-war-photographs/articles-and-essays/ambrotypes-and-tintypes/">Ambrotypes</a></td>
+        <td>Tintypes</td>
+    </tr>
+</table>
+<img src="IMG_6484.jpeg" width="450px" height="675px" alt="Man carte-de-visite" align="right"></right>
+    <br>
+<center><img src="IMG_6490.jpeg" width="800px" height="600px" alt="Main Street Greeneville TN"></center>
+</body>
